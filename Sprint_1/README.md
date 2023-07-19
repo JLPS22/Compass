@@ -1,1 +1,1 @@
-Meu nome é João Luiz da Paixão de Souza, tenho 18 anos, estou atualmente no terceiro semestre do curso de Ciências da Computação na UNIFACS.
+Meu nome é João Luiz da Paixão de Souza, tenho 18 anos, estou atualmente no terceiro semestre do curso de Ciências da Computação na UNIFACS no período noturno.
