@@ -2,7 +2,7 @@
 
 Repositório criado para armazenar as atividades desenvolvidas de cada Sprint durante o período do programa de bolsas.
 
-## Olá meu nome é João Luiz 
+# Olá meu nome é João Luiz 
 
 **IDADE:** 18 anos
 
@@ -16,8 +16,18 @@ Graças ao programa de bolsa, estou tendo meu primeiro contato profissional na �
 
 Quando não estou estudando, gosto de ir na casa de amigos jogar dominó, conversar e assistir aos jogos do [Bahia](https://www.google.com/search?q=Esporte+Clube+Bahia&sxsrf=AB5stBijjU3Wap3kx2-ERvtQv14b7MmRWg%3A1689964484663&ei=xM-6ZJuHKKeo1sQPtbuKsAk&ved=0ahUKEwib-ammuKCAAxUnlJUCHbWdApYQ4dUDCBA&uact=5&oq=Esporte+Clube+Bahia&gs_lp=Egxnd3Mtd2l6LXNlcnAiE0VzcG9ydGUgQ2x1YmUgQmFoaWEyDBAjGIoFGCcYRhj9ATINEC4YgwEYsQMYigUYQzIFEAAYgAQyCBAAGIAEGMsBMgUQABiABDIIEAAYgAQYywEyBRAuGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMhwQLhiDARixAxiKBRhDGJcFGNwEGN4EGOAE2AEDSKtvUOgeWOdgcAF4AZABAJgBngGgAb4GqgEDMC42uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICChAAGIoFGLADGEPCAg4QABjkAhjWBBiwA9gBAcICEBAuGIoFGMgDGLADGEPYAQLCAgcQIxixAhgnwgIHEAAYgAQYCsICBxAuGIAEGArCAgwQIxixAhgnGEYY_QHCAgwQIxiwAhgnGEYY_QHCAg0QLhgNGIMBGLEDGIAEwgIHEAAYDRiABMICBxAuGA0YgATCAhwQLhgNGIMBGLEDGIAEGJcFGNwEGN4EGOAE2AED4gMEGAAgQYgGAZAGE7oGBggBEAEYCboGBggCEAEYCLoGBggDEAEYFA&sclient=gws-wiz-serp) time que eu sou apaixonado desde criança.
 
-## Diretórios
+## Sprint 1 - *Git / GitHub / Linux*
 
-Links para os repositórios do foi aprendido em cada Sprint:
+Para quem trabalha com códigos, o **Git** é uma ferramenta fundamental, que te ajuda a gerenciar o código-fonte, sendo uma das ferramentas mais utilizadas do mundo. E para ajudar a armazenar seu projeto, o **GitHub** é um serviço de gerenciamento de repositórios gratuito que vem ganhando bastante espaço nos últimos anos. Os comandos de terminal dos sistemas operacionais baseados em **Linux** como o Ubuntu, são de conhecimento importante para a carreira de um profissional de TI.
 
-_Sprint 1:_ 
+## Exercícios:
+
+[Exercício 1](https://github.com/JLPS22/Compass/blob/master/Sprint_1/Exercicios/Exercicio_1.md)
+
+[Exercício 2](https://github.com/JLPS22/Compass/blob/master/Sprint_1/Exercicios/Exercicio_2.md)
+
+[Exercício 3](https://github.com/JLPS22/Compass/blob/master/Sprint_1/Exercicios/Exercicio_3.md)
+
+[Exercício 4](https://github.com/JLPS22/Compass/blob/master/Sprint_1/Exercicios/Exercicio_4.md)
+
+[Certificados](https://github.com/JLPS22/Compass/tree/master/Sprint_1/Certificados)
