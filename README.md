@@ -1,5 +1,23 @@
-Meu nome é João Luiz da Paixão de Souza, tenho 18 anos, moro em São Sebastião do Passé no estado da Bahia, estou atualmente no terceiro semestre do curso de Ciências da Computação na UNIFACS em Salvador no período noturno.
+# AWS Compass Uol
 
-Os cursos de Git e GitHub estão sendo bastante úteis, já que eu nunca havia mexido em um repositório antes, agora já sei como criar um repositório, adicionar um ou vários arquivos, fazer commit dos arquivos adicionados ou modificados, dar um push para enviar pro repositório no GitHub. Além de ter aprendido a remover arquivos, criar e utilizar branchs e tags.
+Repositório criado para armazenar as atividades desenvolvidas de cada Sprint durante o período do programa de bolsas.
 
-No curso de Linux também foi a minha primeira experiência com um sistema operacional diferente do Windows, aprendi alguns comandos básicos do Linux como criar e se locomover entre os diretórios, instalar e atualizar novos softwares, criar novos grupos e usuários, dar e tirar permissões como w (escrita), r (leitura) e x (executável), além de criar, editar, excluir e mover arquivos de texto entre os diretórios.
+## Olá meu nome é João Luiz 
+
+**IDADE:** 18 anos
+
+**CIDADE:** [São Sebastião do Passé](https://www.google.com/maps/place/S%C3%A3o+Sebasti%C3%A3o+do+Pass%C3%A9,+BA,+43850-000/@-12.5181017,-38.5017501,14.25z/data=!4m15!1m8!3m7!1s0x7167cd60e176027:0x11ac7f04f52577a6!2zU8OjbyBTZWJhc3Rpw6NvIGRvIFBhc3PDqSwgQkEsIDQzODUwLTAwMA!3b1!8m2!3d-12.5127094!4d-38.4908644!16s%2Fg%2F11bxfw6pw5!3m5!1s0x7167cd60e176027:0x11ac7f04f52577a6!8m2!3d-12.5127094!4d-38.4908644!16s%2Fg%2F11bxfw6pw5?entry=ttu)
+
+**INSTITUIÇÃO DE ENSINO:** [Universidade Salvador - Paralela](https://www.unifacs.br/unidades/)
+
+**CURSO:** *Ciências da Computação*, 3º Semestre
+
+Graças ao programa de bolsa, estou tendo meu primeiro contato profissional na área de tecnologia, podendo ampliar meus conhecimentos como desenvolvedor.
+
+Quando não estou estudando, gosto de ir na casa de amigos jogar dominó, conversar e assistir aos jogos do [Bahia](https://www.google.com/search?q=Esporte+Clube+Bahia&sxsrf=AB5stBijjU3Wap3kx2-ERvtQv14b7MmRWg%3A1689964484663&ei=xM-6ZJuHKKeo1sQPtbuKsAk&ved=0ahUKEwib-ammuKCAAxUnlJUCHbWdApYQ4dUDCBA&uact=5&oq=Esporte+Clube+Bahia&gs_lp=Egxnd3Mtd2l6LXNlcnAiE0VzcG9ydGUgQ2x1YmUgQmFoaWEyDBAjGIoFGCcYRhj9ATINEC4YgwEYsQMYigUYQzIFEAAYgAQyCBAAGIAEGMsBMgUQABiABDIIEAAYgAQYywEyBRAuGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMhwQLhiDARixAxiKBRhDGJcFGNwEGN4EGOAE2AEDSKtvUOgeWOdgcAF4AZABAJgBngGgAb4GqgEDMC42uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICChAAGIoFGLADGEPCAg4QABjkAhjWBBiwA9gBAcICEBAuGIoFGMgDGLADGEPYAQLCAgcQIxixAhgnwgIHEAAYgAQYCsICBxAuGIAEGArCAgwQIxixAhgnGEYY_QHCAgwQIxiwAhgnGEYY_QHCAg0QLhgNGIMBGLEDGIAEwgIHEAAYDRiABMICBxAuGA0YgATCAhwQLhgNGIMBGLEDGIAEGJcFGNwEGN4EGOAE2AED4gMEGAAgQYgGAZAGE7oGBggBEAEYCboGBggCEAEYCLoGBggDEAEYFA&sclient=gws-wiz-serp) time que eu sou apaixonado desde criança.
+
+## Diretórios
+
+Links para os repositórios do foi aprendido em cada Sprint:
+
+_Sprint 1:_ 

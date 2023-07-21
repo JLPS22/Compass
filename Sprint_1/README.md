@@ -1,5 +1,7 @@
-Meu nome é João Luiz da Paixão de Souza, tenho 18 anos, moro em São Sebastião do Passé no estado da Bahia, estou atualmente no terceiro semestre do curso de Ciências da Computação na UNIFACS em Salvador no período noturno.
+# Sprint 1 - *Git / GitHub / Linux*
 
-Os cursos de Git e GitHub estão sendo bastante úteis, já que eu nunca havia mexido em um repositório antes, agora já sei como criar um repositório, adicionar um ou vários arquivos, fazer commit dos arquivos adicionados ou modificados, dar um push para enviar pro repositório no GitHub. Além de ter aprendido a remover arquivos, criar e utilizar branchs e tags.
+Para quem trabalha com códigos, o **Git** é uma ferramenta fundamental, que te ajuda a gerenciar o código-fonte, sendo uma das ferramentas mais utilizadas do mundo. E para ajudar a armazenar seu projeto, o **GitHub** é um serviço de gerenciamento de repositórios gratuito que vem ganhando bastante espaço nos últimos anos. Os comandos de terminal dos sistemas operacionais baseados em **Linux** como o Ubuntu, são de conhecimento importante para a carreira de um profissional de TI.
 
-No curso de Linux também foi a minha primeira experiência com um sistema operacional diferente do Windows, aprendi alguns comandos básicos do Linux como criar e se locomover entre os diretórios, também a criar, editar, excluir e mover arquivos de texto entre os diretórios.
+## Exercícios:
+
+[Exercício 1]()
