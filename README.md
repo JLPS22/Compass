@@ -1,0 +1,5 @@
+Meu nome é João Luiz da Paixão de Souza, tenho 18 anos, moro em São Sebastião do Passé no estado da Bahia, estou atualmente no terceiro semestre do curso de Ciências da Computação na UNIFACS em Salvador no período noturno.
+
+Os cursos de Git e GitHub estão sendo bastante úteis, já que eu nunca havia mexido em um repositório antes, agora já sei como criar um repositório, adicionar um ou vários arquivos, fazer commit dos arquivos adicionados ou modificados, dar um push para enviar pro repositório no GitHub. Além de ter aprendido a remover arquivos, criar e utilizar branchs e tags.
+
+No curso de Linux também foi a minha primeira experiência com um sistema operacional diferente do Windows, aprendi alguns comandos básicos do Linux como criar e se locomover entre os diretórios, instalar e atualizar novos softwares, criar novos grupos e usuários, dar e tirar permissões como w (escrita), r (leitura) e x (executável), além de criar, editar, excluir e mover arquivos de texto entre os diretórios.
