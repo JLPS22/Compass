@@ -10,10 +10,8 @@ with vtv as (
 		vdd.cdvdd as cdvdd,
 		vdd.nmvdd as vendedor,
 		sum(ven.qtd * ven.vrunt) as valor_total_vendas,
-		case
-			when sum(ven.qtd * ven.vrunt) = 2472020.0 then 24720.2
-			else round(sum(ven.qtd * ven.vrunt * vdd.perccomissao/100),2) end as comissao
-
+		round(sum(ven.qtd * ven.vrunt) * vdd.perccomissao/100 ,2) as comissao
+		
 	from tbvendas as ven
 	left join tbvendedor as vdd
 		on ven.cdvdd = vdd.cdvdd
