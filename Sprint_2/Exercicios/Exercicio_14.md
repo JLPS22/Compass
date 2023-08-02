@@ -6,9 +6,7 @@ Observação: Apenas vendas com status concluído.
 ## Resposta:
 SELECT 
 	estado,
-	case
-	    when round(sum(qtd * vrunt) / count(*), 2) = 19278 then 19278.18
-	    else round(sum(qtd * vrunt) / count(*), 2) end as gastomedio
+	round(avg(qtd * vrunt), 2) as gastomedio
 	
 from tbvendas 
 where status = 'Concluído'
