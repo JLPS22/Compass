@@ -31,3 +31,14 @@ Para quem trabalha com códigos, o **Git** é uma ferramenta fundamental, que te
 [Exercício 4](https://github.com/JLPS22/Compass/blob/master/Sprint_1/Exercicios/Exercicio_4.md)
 
 [Certificados](https://github.com/JLPS22/Compass/tree/master/Sprint_1/Certificados)
+
+
+## Sprint 2 - *SQL / Big Data*
+
+
+
+## Exercícios:
+
+[Pasta de Exercícios 1-16](https://github.com/JLPS22/Compass/tree/master/Sprint_2/Exercicios)
+
+[Certificados](https://github.com/JLPS22/Compass/tree/master/Sprint_2/Certificados)
