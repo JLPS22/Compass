@@ -12,3 +12,5 @@ from tbvendas<br>
 where (nmcanalvendas = 'Matriz' or nmcanalvendas = 'Ecommerce') and (status = 'Concluído')<br>
 group by cdpro, nmcanalvendas, nmpro<br>
 order by quantidade_vendas
+
+![E13](/Compass/Sprint_2/Evidencias/E13.png)

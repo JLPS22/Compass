@@ -12,3 +12,5 @@ left join tbvendedor as vdr<br>
 group by vdr.cdvdd, vdr.nmvdd<br>
 order by count(vendas.qtd) desc<br>
 limit 1
+
+![E8](/Compass/Sprint_2/Evidencias/E8.png)

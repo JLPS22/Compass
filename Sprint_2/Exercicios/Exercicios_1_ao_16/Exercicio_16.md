@@ -13,3 +13,5 @@ from tbvendas<br>
 where status = 'Concluído'<br>
 group by estado, nmpro<br>
 order by estado, nmpro
+
+![E16](/Compass/Sprint_2/Evidencias/E16.png)

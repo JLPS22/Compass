@@ -6,3 +6,5 @@ SELECT titulo, valor<br>
 FROM livro<br>
 order by valor DESC<br>
 LIMIT 10
+
+![E2](/Compass/Sprint_2/Evidencias/E2.png)

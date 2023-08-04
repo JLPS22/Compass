@@ -16,3 +16,5 @@ left join endereco as ede<br>
 group by edt.nome, ede.estado, ede.cidade<br>
 order by quantidade desc<br>
 limit 5
+
+![E3](/Compass/Sprint_2/Evidencias/E3.png)

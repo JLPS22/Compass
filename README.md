@@ -35,10 +35,14 @@ Para quem trabalha com códigos, o **Git** é uma ferramenta fundamental, que te
 
 ## Sprint 2 - *SQL / Big Data*
 
-
+Ao passar dos anos, grandes empresas vem usando o **Big Data** para tratar, analisar e receber informações a partir de um grande e variado volume de dados, isso é uma estratégia que ajuda as empresas nas tomadas de decisões. O **SQL** ou **Linguagem de Consulta Estruturada**, é uma linguagem de programação usada em bancos de dados relacionais para consulta, gerenciamento e processamento de dados. Tendo também o NoSQL, que é um banco de dados não relacional de alto desempenho.
 
 ## Exercícios:
 
-[Pasta de Exercícios 1-16](https://github.com/JLPS22/Compass/tree/master/Sprint_2/Exercicios)
+[Pasta de Exercícios 1-16](https://github.com/JLPS22/Compass/tree/master/Sprint_2/Exercicios/Exercicios_1_ao_16)
+
+[10 livros mais caros](https://github.com/JLPS22/Compass/blob/master/Sprint_2/Exercicios/dez_livros_mais_caros.csv)
+
+[As 5 editoras com maior quantidade de livros na biblioteca](https://github.com/JLPS22/Compass/blob/master/Sprint_2/Exercicios/cinco_editoras.csv)
 
 [Certificados](https://github.com/JLPS22/Compass/tree/master/Sprint_2/Certificados)

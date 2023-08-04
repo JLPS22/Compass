@@ -11,3 +11,5 @@ left join livro as liv<br>
 group by aut.nome<br>
 having count(liv.cod) = 0<br>
 order by aut.nome
+
+![E7](/Compass/Sprint_2/Evidencias/E7.png)

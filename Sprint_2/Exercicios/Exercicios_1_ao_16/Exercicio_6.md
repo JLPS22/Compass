@@ -13,3 +13,5 @@ left join autor as aut<br>
 group by aut.codautor, aut.nome<br>
 order by quantidade_publicacoes desc<br>
 limit 1
+
+![E6](/Compass/Sprint_2/Evidencias/E6.png)

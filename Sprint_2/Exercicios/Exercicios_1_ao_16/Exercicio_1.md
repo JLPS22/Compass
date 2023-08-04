@@ -6,3 +6,6 @@ SELECT *<br>
 FROM livro<br>
 WHERE publicacao >= '2015-01-01'<br>
 ORDER by cod
+
+
+![E1](/Compass/Sprint_2/Evidencias/E1.png)

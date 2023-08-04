@@ -11,3 +11,5 @@ group by nmpro, cdpro<br>
 having (count(dtven between '2014-02-02' and '2018-02-02')) and (lower(status) = 'concluído')<br>
 order by count(dtven between '2014-02-02' and '2018-02-02') desc<br>
 limit 1
+
+![E9](/Compass/Sprint_2/Evidencias/E9.png)

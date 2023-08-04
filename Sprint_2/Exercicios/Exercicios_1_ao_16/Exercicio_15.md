@@ -8,3 +8,5 @@ SELECT<br>
 from tbvendas<br>
 where deletado >= 1<br>
 order by cdven
+
+![E15](/Compass/Sprint_2/Evidencias/E15.png)

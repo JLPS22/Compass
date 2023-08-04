@@ -11,3 +11,5 @@ from tbvendas<br>
 group by cdcli, nmcli<br>
 order by gasto desc<br>
 limit 1
+
+![E11](/Compass/Sprint_2/Evidencias/E11.png)

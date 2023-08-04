@@ -12,3 +12,5 @@ from tbvendas<br>
 where status = 'Concluído'<br>
 group by estado<br>
 order by gastomedio desc
+
+![E14](/Compass/Sprint_2/Evidencias/E14.png)

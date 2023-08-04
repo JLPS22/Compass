@@ -17,3 +17,5 @@ left join tbvendedor as vdd<br>
 where lower(ven.status) = 'concluído'<br>
 group by vendedor<br>
 order by comissao desc
+
+![E10](/Compass/Sprint_2/Evidencias/E10.png)

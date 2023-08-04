@@ -13,3 +13,5 @@ left join endereco as ede<br>
 	on edt.endereco = ede.codendereco<br>
 where ede.estado not in ('PARANÁ', 'RIO GRANDE DO SUL')<br>
 order by aut.nome
+
+![E5](/Compass/Sprint_2/Evidencias/E5.png)

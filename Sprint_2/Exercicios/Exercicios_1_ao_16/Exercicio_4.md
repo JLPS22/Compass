@@ -13,3 +13,5 @@ left join livro as liv<br>
 	on codautor = liv.autor<br>
 group by nome, codautor, nascimento<br>
 order by nome<br>
+
+![E4](/Compass/Sprint_2/Evidencias/E4.png)

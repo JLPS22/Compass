@@ -30,3 +30,5 @@ left join tbdependente as dep<br>
 group by dep.cddep, dep.nmdep, dep.dtnasc<br>
 order by valor_total_vendas<br>
 limit 1
+
+![E12](/Compass/Sprint_2/Evidencias/E12.png)
