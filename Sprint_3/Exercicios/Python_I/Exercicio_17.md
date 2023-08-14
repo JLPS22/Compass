@@ -5,7 +5,7 @@ lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 
 ## *Resposta:*
 ```
-def fun(lista):<br>
+def fun(lista):
     lista_1 = []
     lista_2 = []
     lista_3 = []
