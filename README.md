@@ -46,3 +46,25 @@ Ao passar dos anos, grandes empresas vem usando o **Big Data** para tratar, anal
 [As 5 editoras com maior quantidade de livros na biblioteca](https://github.com/JLPS22/Compass/blob/master/Sprint_2/Exercicios/cinco_editoras.csv)
 
 [Certificados](https://github.com/JLPS22/Compass/tree/master/Sprint_2/Certificados)
+
+# Sprint 3 - *Python 3*
+
+A linguagem de programação **Python** vem crescendo muito nos últimos tempos sendo utilizada por grandes empresas, isso se dá pela sua simplicidade, fácil aprendizagem, além de poder ser usada para diversos fins como programação em backend e analise dados.
+
+## Exercícios:
+
+[Exercícios Python parte I](https://github.com/JLPS22/Compass/tree/master/Sprint_3/Exercicios/Python_I)
+
+[Exercícios Python parte II](https://github.com/JLPS22/Compass/tree/master/Sprint_3/Exercicios/Python_II)
+
+[Etapa 1](https://github.com/JLPS22/Compass/blob/master/Sprint_3/Exercicios/Etapa_1.md)
+
+[Etapa 2](https://github.com/JLPS22/Compass/blob/master/Sprint_3/Exercicios/Etapa_2.md)
+
+[Etapa 3](https://github.com/JLPS22/Compass/blob/master/Sprint_3/Exercicios/Etapa_3.md)
+
+[Etapa 4](https://github.com/JLPS22/Compass/blob/master/Sprint_3/Exercicios/Etapa_4.md)
+
+[Etapa 5](https://github.com/JLPS22/Compass/blob/master/Sprint_3/Exercicios/Etapa_5.md)
+
+[Certificados](https://github.com/JLPS22/Compass/tree/master/Sprint_3/Certificados)
