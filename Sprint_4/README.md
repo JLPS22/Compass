@@ -4,9 +4,13 @@ O **Docker** é um software que nos ajuda no setup de aplicações, onde podemos
 ## Exercícios:
 
 [Exercício de Programção](https://github.com/JLPS22/Compass/tree/master/Sprint_4/Exercicios/Exercicio_de_programacao)
+
 [Questão 1](https://github.com/JLPS22/Compass/blob/master/Sprint_4/Exercicios/Questao_1.md)
+
 [Questão 2](https://github.com/JLPS22/Compass/blob/master/Sprint_4/Exercicios/Questao_2.md)
+
 [Questão 3](https://github.com/JLPS22/Compass/blob/master/Sprint_4/Exercicios/Questao_3.md)
+
 [Certificados](https://github.com/JLPS22/Compass/tree/master/Sprint_4/Certificados)
 
 ## Olá meu nome é João Luiz 

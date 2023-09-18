@@ -75,9 +75,13 @@ O **Docker** é um software que nos ajuda no setup de aplicações, onde podemos
 ## Exercícios:
 
 [Exercício de Programção](https://github.com/JLPS22/Compass/tree/master/Sprint_4/Exercicios/Exercicio_de_programacao)
+
 [Questão 1](https://github.com/JLPS22/Compass/blob/master/Sprint_4/Exercicios/Questao_1.md)
+
 [Questão 2](https://github.com/JLPS22/Compass/blob/master/Sprint_4/Exercicios/Questao_2.md)
+
 [Questão 3](https://github.com/JLPS22/Compass/blob/master/Sprint_4/Exercicios/Questao_3.md)
+
 [Certificados](https://github.com/JLPS22/Compass/tree/master/Sprint_4/Certificados)
 
 # Sprint 5 - AWS
@@ -86,7 +90,11 @@ A Amazon Web Service (AWS) é uma plataforma de serviços de computação em nuv
 ## Exercícios:
 
 [Resumo do curso de AWS Partner: Sales Accreditation](https://github.com/JLPS22/Compass/blob/master/Sprint_5/Exercicios/Resumo_Sales_Accreditation.md)
+
 [Resumo do curso de AWS Partner: Accreditation](https://github.com/JLPS22/Compass/blob/master/Sprint_5/Exercicios/Resumo_Accreditation.md)
+
 [Resumo do curso de AWS Partner: Cloud Economics Accreditation](https://github.com/JLPS22/Compass/blob/master/Sprint_5/Exercicios/Resumo_Economics_Accreditation.md)
+
 [Resumo do curso de Exam Prep: AWS Certified Cloud Practitioner](https://github.com/JLPS22/Compass/blob/master/Sprint_5/Exercicios/Resumo_Certified_Cloud_Practitioner.md)
+
 [Certificados](https://github.com/JLPS22/Compass/tree/master/Sprint_5/Certificados)
