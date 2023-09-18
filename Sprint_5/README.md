@@ -1,0 +1,2 @@
+# Sprint 5 - AWS
+A Amazon Web Service (AWS) é uma plataforma de serviços de computação em nuvem mais abrangente e amplamente adotada do mundo, que inclui ofertas de infraestrutura como serviço (IaaS) e plataforma como serviço (PaaS) e software como serviço (SaaS). Oferecendo soluções escaláveis para computação, armazenamento, bancos de dados, análises e muito mais.
