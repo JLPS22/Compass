@@ -47,7 +47,7 @@ Ao passar dos anos, grandes empresas vem usando o **Big Data** para tratar, anal
 
 [Certificados](https://github.com/JLPS22/Compass/tree/master/Sprint_2/Certificados)
 
-# Sprint 3 - *Python 3*
+## Sprint 3 - *Python 3*
 
 A linguagem de programação **Python** vem crescendo muito nos últimos tempos sendo utilizada por grandes empresas, isso se dá pela sua simplicidade, fácil aprendizagem, além de poder ser usada para diversos fins como programação em backend e analise dados.
 
@@ -68,3 +68,25 @@ A linguagem de programação **Python** vem crescendo muito nos últimos tempos 
 [Etapa 5](https://github.com/JLPS22/Compass/blob/master/Sprint_3/Exercicios/Etapa_5.md)
 
 [Certificados](https://github.com/JLPS22/Compass/tree/master/Sprint_3/Certificados)
+
+## Sprint 4 - Docker
+O **Docker** é um software que nos ajuda no setup de aplicações, onde podemos criar, configurar e rodar nossos containers em diversos sistemas operacionais. Além de ter que gastar pouco tempo em manutenções.
+
+## Exercícios:
+
+[Exercício de Programção](https://github.com/JLPS22/Compass/tree/master/Sprint_4/Exercicios/Exercicio_de_programacao)
+[Questão 1](https://github.com/JLPS22/Compass/blob/master/Sprint_4/Exercicios/Questao_1.md)
+[Questão 2](https://github.com/JLPS22/Compass/blob/master/Sprint_4/Exercicios/Questao_2.md)
+[Questão 3](https://github.com/JLPS22/Compass/blob/master/Sprint_4/Exercicios/Questao_3.md)
+[Certificados](https://github.com/JLPS22/Compass/tree/master/Sprint_4/Certificados)
+
+# Sprint 5 - AWS
+A Amazon Web Service (AWS) é uma plataforma de serviços de computação em nuvem mais abrangente e amplamente adotada do mundo, que inclui ofertas de infraestrutura como serviço (IaaS) e plataforma como serviço (PaaS) e software como serviço (SaaS). Oferecendo soluções escaláveis para computação, armazenamento, bancos de dados, análises e muito mais.
+
+## Exercícios:
+
+[Resumo do curso de AWS Partner: Sales Accreditation](https://github.com/JLPS22/Compass/blob/master/Sprint_5/Exercicios/Resumo_Sales_Accreditation.md)
+[Resumo do curso de AWS Partner: Accreditation](https://github.com/JLPS22/Compass/blob/master/Sprint_5/Exercicios/Resumo_Accreditation.md)
+[Resumo do curso de AWS Partner: Cloud Economics Accreditation](https://github.com/JLPS22/Compass/blob/master/Sprint_5/Exercicios/Resumo_Economics_Accreditation.md)
+[Resumo do curso de Exam Prep: AWS Certified Cloud Practitioner](https://github.com/JLPS22/Compass/blob/master/Sprint_5/Exercicios/Resumo_Certified_Cloud_Practitioner.md)
+[Certificados](https://github.com/JLPS22/Compass/tree/master/Sprint_5/Certificados)
