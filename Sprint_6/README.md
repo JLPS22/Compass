@@ -11,6 +11,8 @@ A AWS é uma plataforma de serviços de computação em nuvem, tendo como um dos
 
 [Certificados](https://github.com/JLPS22/Compass/tree/master/Sprint_6/Certificados)
 
+Os resumos estão na pasta de [Evidências](https://github.com/JLPS22/Compass/tree/master/Sprint_6/Evidencias)
+
 ## Olá meu nome é João Luiz 
 
 **IDADE:** 18 anos
