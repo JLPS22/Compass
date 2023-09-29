@@ -84,8 +84,8 @@ O **Docker** é um software que nos ajuda no setup de aplicações, onde podemos
 
 [Certificados](https://github.com/JLPS22/Compass/tree/master/Sprint_4/Certificados)
 
-# Sprint 5 - AWS
-A Amazon Web Service (AWS) é uma plataforma de serviços de computação em nuvem mais abrangente e amplamente adotada do mundo, que inclui ofertas de infraestrutura como serviço (IaaS) e plataforma como serviço (PaaS) e software como serviço (SaaS). Oferecendo soluções escaláveis para computação, armazenamento, bancos de dados, análises e muito mais.
+## Sprint 5 - AWS
+A **Amazon Web Service (AWS)** é uma plataforma de serviços de computação em nuvem mais abrangente e amplamente adotada do mundo, que inclui ofertas de *infraestrutura como serviço (IaaS)*, *plataforma como serviço (PaaS)* e *software como serviço (SaaS)*. Oferecendo soluções escaláveis para computação, armazenamento, bancos de dados, análises e muito mais.
 
 ## Exercícios:
 
@@ -98,3 +98,16 @@ A Amazon Web Service (AWS) é uma plataforma de serviços de computação em nuv
 [Resumo do curso de Exam Prep: AWS Certified Cloud Practitioner](https://github.com/JLPS22/Compass/blob/master/Sprint_5/Exercicios/Resumo_Certified_Cloud_Practitioner.md)
 
 [Certificados](https://github.com/JLPS22/Compass/tree/master/Sprint_5/Certificados)
+
+## Sprint 6 - AWS serviços de Data & Analytics
+A AWS é uma plataforma de serviços de computação em nuvem, tendo como um dos serviços o Amazon Simple Storage Service (Amazon S3), que fornece armazenamento de objetos por meio de uma interface de serviços da web, controle de acesso a dados, proteção contra usuários não autorizados e análise de Big Data.
+
+## Exercícios:
+
+[Lab AWS S3](https://github.com/JLPS22/Compass/blob/master/Sprint_6/Exercicios/Lab_AWS_S3.md)
+
+[Lab AWS Athena](https://github.com/JLPS22/Compass/blob/master/Sprint_6/Exercicios/Lab_AWS_Athena.md)
+
+[Lab AWS Lambda](https://github.com/JLPS22/Compass/blob/master/Sprint_6/Exercicios/Lab_AWS_Lambda.md)
+
+[Certificados](https://github.com/JLPS22/Compass/tree/master/Sprint_6/Certificados)
