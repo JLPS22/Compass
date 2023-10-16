@@ -28,5 +28,13 @@ Demostre quanto cada Status de Clientes representa em vendas?
 ![Q3](../Evidencias/Spark/Consulta_Cliente_Status.png)
 
 **Spark SQL** é um módulo Spark para processamento estruturado de dados. Ao contrário da API básica do Spark RDD, as interfaces fornecidas pelo Spark SQL fornecem ao Spark mais informações sobre a estrutura dos dados e da computação que está sendo executada.
+### Faça você mesmo:
+Crie um banco de dados no DW do Spark chamado VendasVarejo, e persista todas as tabelas neste banco de dados.
+
+![Q1](../Evidencias/Spark/BD_VendasVarejo.png)
+
+Crie uma consulta que mostre de cada item vendido: Nome do Cliente, Data da Venda, Produto, Vendedor e Valor Total do item.
+
+![Q2](../Evidencias/Spark/Consulta_Itens_Vendidos.png)
 
 O **Machine Learning** usa algoritmos para entender o modelo que dá origem a um conjunto de dados para conseguir prever ou classificar novos valores. **MLlib** é a biblioteca escalonável de *aprendizado de máquina* do Apache Spark, ela se encaixa nas APIs do Spark e interopera com NumPy em Python, podendo usar qualquer fonte de dados do Hadoop, facilitando a conexão aos fluxos de trabalho do Hadoop.
