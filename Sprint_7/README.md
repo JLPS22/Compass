@@ -9,6 +9,8 @@ O **Spark** é um mecanismo de análise unificado para processamento de dados em
 
 [Laboratório Glue](https://github.com/JLPS22/Compass/blob/master/Sprint_7/Exercicios/Lab_Glue.md)
 
+[Desafio - Parte 1](https://github.com/JLPS22/Compass/blob/master/Sprint_7/Exercicios/Desafio_parte_1.md) (Entregue com atraso)
+
 [Relatório](https://github.com/JLPS22/Compass/blob/master/Sprint_7/Evidencias/Relatorio.md)
 
 [Certificados](https://github.com/JLPS22/Compass/tree/master/Sprint_7/Certificados)

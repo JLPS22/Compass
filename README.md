@@ -111,3 +111,20 @@ A AWS é uma plataforma de serviços de computação em nuvem, tendo como um dos
 [Lab AWS Lambda](https://github.com/JLPS22/Compass/blob/master/Sprint_6/Exercicios/Lab_AWS_Lambda.md)
 
 [Certificados](https://github.com/JLPS22/Compass/tree/master/Sprint_6/Certificados)
+
+## Sprint 7 - Apache Spark
+O **Spark** é um mecanismo de análise unificado para processamento de dados em grande escala com módulos integrados para SQL, streaming, machine learning e processamento de gráficos. Spark provê uma interface para programação de clusters com paralelismo e tolerância a falhas.
+
+## Exercícios:
+
+[Tarefa 1](https://github.com/JLPS22/Compass/blob/master/Sprint_7/Exercicios/Tarefa_1.md)
+
+[Tarefa 2](https://github.com/JLPS22/Compass/blob/master/Sprint_7/Exercicios/Tarefa_2.md)
+
+[Laboratório Glue](https://github.com/JLPS22/Compass/blob/master/Sprint_7/Exercicios/Lab_Glue.md)
+
+[Desafio - Parte 1](https://github.com/JLPS22/Compass/blob/master/Sprint_7/Exercicios/Desafio_parte_1.md) (Entregue com atraso)
+
+[Relatório](https://github.com/JLPS22/Compass/blob/master/Sprint_7/Evidencias/Relatorio.md)
+
+[Certificados](https://github.com/JLPS22/Compass/tree/master/Sprint_7/Certificados)
