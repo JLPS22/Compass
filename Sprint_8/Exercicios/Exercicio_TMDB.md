@@ -21,7 +21,7 @@ import pandas as pd
 from IPython.display import display
 
 
-api_key = "c04c067e745c2758ff20569a71b454ef"
+api_key = "**************************"
 
 url = f"https://api.themoviedb.org/3/movie/top_rated?api_key={api_key}&language=pt-BR"
 

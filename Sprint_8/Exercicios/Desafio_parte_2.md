@@ -13,7 +13,8 @@ import json
 import os
 from datetime import datetime
 
-s3 = boto3.client('s3', aws_access_key_id='AKIAUZ3U2GVMUG45U3I2',aws_secret_access_key='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')
+s3 = boto3.client('s3', aws_access_key_id='********************',
+aws_secret_access_key='****************************************')
 
 bucket_name = 'desafiobucket'
 file_movies = 'Raw/Local/CSV/Movies/2023/10/19/movies.csv'
@@ -94,7 +95,8 @@ def loadJson(file, dados):
 
 def load_s3_Filmes(arquivo, aws_raw_zone):
     
-    s3 = boto3.client('s3', aws_access_key_id='AKIAUZ3U2GVMUG45U3I2',aws_secret_access_key='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')
+    s3 = boto3.client('s3', aws_access_key_id='********************',
+    aws_secret_access_key='****************************************')
     data_processamento = datetime.now().strftime('%Y/%m/%d/')
     aws_bucket_name = 'desafiobucket'
     
@@ -103,7 +105,8 @@ def load_s3_Filmes(arquivo, aws_raw_zone):
     s3.upload_file(os.path.join(arquivo), aws_bucket_name, caminho_destino)
 
 def load_s3_Series(arquivo, aws_raw_zone):
-    s3 = boto3.client('s3', aws_access_key_id='AKIAUZ3U2GVMUG45U3I2',aws_secret_access_key='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')
+    s3 = boto3.client('s3', aws_access_key_id='********************',
+    aws_secret_access_key='****************************************')
     data_processamento = datetime.now().strftime('%Y/%m/%d/')
     aws_bucket_name = 'desafiobucket'
     
@@ -111,7 +114,8 @@ def load_s3_Series(arquivo, aws_raw_zone):
     caminho_destino = os.path.join(aws_raw_zone, 'TMDB/', 'JSON/', 'Series/', data_processamento, arquivo)
     s3.upload_file(os.path.join(arquivo), aws_bucket_name, caminho_destino)
 
-s3 = boto3.client('s3', aws_access_key_id='AKIAUZ3U2GVMUG45U3I2',aws_secret_access_key='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')
+s3 = boto3.client('s3', aws_access_key_id='********************',
+aws_secret_access_key='****************************************')
 
 bucket_name = 'desafiobucket'
 file_movies_Json = 'Raw/Local/JSON/Movies/2023/10/31/movies.json'

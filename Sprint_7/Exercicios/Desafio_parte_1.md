@@ -25,8 +25,8 @@ import boto3
 import os
 from datetime import datetime
 
-aws_access_key_id = 'AKIAUZ3U2GVMUG45U3I2'
-aws_secret_access_key = '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'
+aws_access_key_id = '********************'
+aws_secret_access_key = '*****************************'
 aws_bucket_name = 'desafiobucket'
 aws_raw_zone = 'Raw/'
 
