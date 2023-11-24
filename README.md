@@ -128,3 +128,36 @@ O **Spark** é um mecanismo de análise unificado para processamento de dados em
 [Relatório](https://github.com/JLPS22/Compass/blob/master/Sprint_7/Evidencias/Relatorio.md)
 
 [Certificados](https://github.com/JLPS22/Compass/tree/master/Sprint_7/Certificados)
+
+## Sprint 8 - Continuação do Apache Spark
+O **Spark** é um mecanismo de análise unificado para processamento de dados em grande escala com módulos integrados para SQL, streaming, machine learning e processamento de gráficos. Spark provê uma interface para programação de clusters com paralelismo e tolerância a falhas.
+
+## Exercícios:
+
+[Exercício TMDB](https://github.com/JLPS22/Compass/blob/master/Sprint_8/Exercicios/Exercicio_TMDB.md)
+
+[Desafio - Parte 2](https://github.com/JLPS22/Compass/blob/master/Sprint_8/Exercicios/Desafio_parte_2.md)
+
+[Tarefa 3: Exercícios Geração de massa de dados](https://github.com/JLPS22/Compass/blob/master/Sprint_8/Exercicios/Tarefa_3.md)
+
+[Tarefa 4: Exercícios - Apache Spark](https://github.com/JLPS22/Compass/blob/master/Sprint_8/Exercicios/Tarefa_4.md)
+
+[Certificado dos cursos de Cultura Ágil e Segurança](https://github.com/JLPS22/Compass/tree/master/Sprint_8/Certificado_CulturaAgil_Seguranca)
+
+## Sprint 9 - Modelagem de Dados
+A **Modelagem de Dados Relacional** é uma abordagem de modelagem popular que visualiza classes de dados como tabelas. Diferentes tabelas de dados se unem ou se vinculam usando chaves que representam a relação de entidades do mundo real. **Modelagem dimensional** é uma disciplina de design que abrange a modelagem relacional formal e a engenharia de realidades textuais e numéricas. Ela utiliza estruturas projetadas para recuperar informações de um data warehouse.
+
+## Exercícios:
+
+[Tarefa 1: Modelagem Relacional - Normalização](https://github.com/JLPS22/Compass/tree/master/Sprint_9/Exercicios/Tarefa_1)
+
+[Tarefa 2: Modelagem Dimensional - Criação de Modelo](https://github.com/JLPS22/Compass/tree/master/Sprint_9/Exercicios/Tarefa_2)
+
+[Desafio - Parte 3](https://github.com/JLPS22/Compass/tree/master/Sprint_9/Exercicios/Desafio_parte_3)
+
+## Sprint 10 - QuickSight
+O **Amazon QuickSight** permite que todos em sua organização entendam seus dados por meio de perguntas em linguagem natural, do uso de painéis interativos ou procurando automaticamente padrões e discrepâncias com tecnologia de machine learning. Oferece também visualização do painel semanalmente para clientes, permitindo que os usuários finais tomem melhores decisões orientadas por dados.
+
+## Exercício:
+
+[Dashboard](https://github.com/JLPS22/Compass/tree/master/Sprint_10/Dashboard.pdf)
